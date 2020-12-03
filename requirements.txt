@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+
+#################################################
+# F5 the-internet dynamic content requirements
+#
+# :Author:
+#   Mike Millgate
+#
+# :Created:
+#   December 2020
+#
+#################################################
+pytest==6.1.2  # python test runner
+pytest-html==3.0.0  # python test runner results report generator
+pytest-xdist==2.1.0  # python test runner parallelization
+webdriver-manager==3.2.2  # webdriver binary object manager (chromedriver)
+selenium==3.141.0  # webdriver wrapper to automate browser/user interactions
+
